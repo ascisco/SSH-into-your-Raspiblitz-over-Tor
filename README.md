@@ -11,7 +11,7 @@ This guide will instruct you on how to SSH into your Raspiblitz over TOR using a
 - Orbot android app
 - An SSH android app (JuiceSSH or Termux)
 
-
+----------------------------------------------
 
 **Setup SSH Hidden Service**
 1. Open the command line terminal on your raspiblitz
@@ -36,7 +36,7 @@ This guide will instruct you on how to SSH into your Raspiblitz over TOR using a
   sudo cat /mnt/hdd/tor/sshd/hostname
   ```
 
-
+----------------------------------------------
 
 **Connect Through Mobile Device**
 1. Install and launch Orbot
@@ -48,9 +48,9 @@ This guide will instruct you on how to SSH into your Raspiblitz over TOR using a
   ```
    - Type: SSH
    - Address: youraddress.onion (from step 6)
-   - Identity:
-     Username: admin
-     Password: 'Your Raspiblitz Password A'
+   - Identity
+      Username: admin
+      Password: 'Your Raspiblitz Password A'
    - Port: 22
   ```
   For Termux: Run the following commands
