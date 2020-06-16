@@ -38,17 +38,17 @@ This guide will instruct you on how to SSH into your Raspiblitz over TOR using a
 3. Install and launch your SSH app
 4. SSH into your raspiblitz
 
-    For JuiceSSH add a new connnection
+  For JuiceSSH add a new connnection:
   ```
    - Type: SSH
    - Address: youraddress.onion (from step 6)
    - Idnetity: admin
-      Password: Your Raspiblitz 'Password A'
+      Password: 'Your Raspiblitz Password A'
    - Port: 22
   ```
-  For Termux run the following commands
+  For Termux run the following commands:
   ```
   pkg install openssh
   ssh admin@youraddress.onion
   ```
-5. Save and connect
+5. You should now be connected to your home raspiblitz node!
