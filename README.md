@@ -1,12 +1,12 @@
 
 
-# SSH-into-your-Raspblitz-using-TOR
+# SSH-into-your-Raspiblitz-using-TOR
 
 This guide will instruct you on how to SSH into your Raspiblitz over TOR using an android device.
 
 
 
-**Preqeusities:**
+**Prerequisites:**
 - TOR enabled on your Raspiblitz 
 - Orbot android app
 - An SSH android app (JuiceSSH or Termux)
