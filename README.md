@@ -6,7 +6,7 @@ This guide will instruct you on how to SSH into your Raspiblitz over TOR using a
 
 
 
-**Preqeusities**
+**Preqeusities:**
 - TOR enabled on your Raspiblitz 
 - Orbot android app
 - An SSH android app (JuiceSSH or Termux)
