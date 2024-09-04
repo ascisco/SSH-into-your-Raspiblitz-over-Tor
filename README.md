@@ -41,7 +41,7 @@ This guide will instruct you on how to SSH into your Raspiblitz over Tor using a
 **Connect Through Mobile Device**
 
 For **JuiceSSH**
-  1. Open Orbot and enable VPN mode
+  1. Launch Orbot app and enable VPN mode
   2. Connect to Tor
   3. Launch JuiceSSH app
   4. Manage Connections -> New Connection
