@@ -1,6 +1,6 @@
 
 
-# SSH-into-your-Raspiblitz-over-Tor
+# SSH into your Raspiblitz over Tor
 
 This guide will instruct you on how to SSH into your Raspiblitz over Tor using an android device.
 
